@@ -2,27 +2,39 @@
   "products": [
     {
       "id": "123",
-      "title": "Nome do produto 01",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 50
+      "title": "Water Cooler - Corsair",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/51WqefOWisL._AC_SL1000_.jpg",
+      "price": 970
     },
     {
       "id": "1234",
-      "title": "Nome do produto 02",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 60
+      "title": "Alloy FPS Pro - HyperX",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71wYNUGGDgL._AC_SL1500_.jpg",
+      "price": 350
     },
     {
       "id": "12345",
-      "title": "Nome do produto 03",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 70
+      "title": "SSD 970 EVO - Samsung",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81qFyCwPxYL._AC_SL1500_.jpg",
+      "price": 800
     },
     {
       "id": "123456",
-      "title": "Nome do produto 04",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 80
+      "title": "Kit Fan RGB - Corsair",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/71K0Be9yoHL._AC_SL1500_.jpg",
+      "price": 400
+    },
+    {
+      "id": "1234567",
+      "title": "Cloud Alpha - HyperX",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/61JJl260NlL._AC_SL1412_.jpg",
+      "price": 840
+    },
+    {
+      "id": "12345678",
+      "title": "RTX 2070 Ultra",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/I/81aAviUSAtL._AC_SL1500_.jpg",
+      "price": 2500
     }
   ]
 }
