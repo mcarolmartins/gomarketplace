@@ -3,7 +3,7 @@ Resolução do desafio 08 do Bootcamp da Rocketseat - GoMarketplace!
 
 Pequeno sistema de carrinho para add e remover produtos
 
-<img alt="GoMarketplace" src="./src/assets/GoMarketplace.mp4" width="400px" style="border-radius:16px;"/>
+<img alt="GoMarketplace" src="./src/assets/gif.gif" width="400px" style="border-radius:16px;"/>
 
 ## Para iniciar o projeto
 
